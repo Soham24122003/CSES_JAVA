@@ -1,14 +1,15 @@
 # CSES Solutions in Java
 ---
 
-![Hi](https://tenor.com/view/hi-there-gif-24028235)
+![Hi](/frGIThb/hi-there.gif)
 
 Hello from Soham! Wishing you all the best.
 
-![Anime GIF](https://path/to/your/anime-gif.gif)
-
 ## Description
-This repository is created by me in order to keep a record of all the problems that I have solved. Feel free to refer to it and welcome!
+This repository is created by me in order to keep a record of all the problems that I have solved. Feel free to refer to it!
+I am updating it as I am going through the journey of solving them !
+
+![Anime GIF](/frGIThb/good-luck.gif)
 
 ## CSES Problem Set
 
